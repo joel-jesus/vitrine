@@ -1,0 +1,12 @@
+/*Margins*/
+
+.mt_3{
+    margin-top: 40px;
+}
+
+/*Search*/
+.no_background{
+    background-color: transparent!important;
+    box-shadow: none!important;
+    border: none;
+}
